@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="obrigatorio">Campo Obrigatório</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="phone">Número</string>
+    <string name="submit">Enviar</string>
+</resources>
