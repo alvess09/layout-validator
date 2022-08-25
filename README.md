@@ -3,7 +3,8 @@
 This project has developed to Formulary validate.
 ## Final App
 
-![Logo](/login-validator.gif 250X250)
+<img src="/login-validator.gif" width="357" height="750" />
+
 
 ## Credits:
 Code With Cal tutorials 
